@@ -3,7 +3,8 @@
 
 The codes in BinaryClassifier.ipynb and 10ClassClassifier.ipynb were sourced for project
 research purposes ONLY. We do not claim any form of ownership or credit for the code in 
-these files. All references are listed below as well as in 4105ProjectReport.pdf
+these files. All references to their original authors are listed below as well as in the
+file 4105ProjectReport.pdf within this repository.
 
 
 
