@@ -1,7 +1,7 @@
 
-***********************************   DISCLAIMER   ***********************************
+************************************   DISCLAIMER   ************************************
 
-The code in BinaryClassifier.ipynb and 10ClassClassifier.ipynb was sourced for project
+The codes in BinaryClassifier.ipynb and 10ClassClassifier.ipynb were sourced for project
 research purposes ONLY. We do not claim any form of ownership or credit for the code in 
 these files. All references are listed below as well as in ProjectReport.pdf
 
