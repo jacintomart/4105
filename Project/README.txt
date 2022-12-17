@@ -7,7 +7,7 @@ these files. All references are listed below as well as in ProjectReport.pdf
 
 
 
-Binary Classifier:
+BinaryClassifier.ipynb Reference:
 
 	TensorFlow, “Model maker: Audio classification.” Available at https:
 	//colab.research.google.com/github/googlecodelabs/odml-pathways/
@@ -15,7 +15,7 @@ Binary Classifier:
 	2022.
 
 
-10-Class Classifier:
+10ClassClassifier.ipynb Reference:
 
 	K. Doshi, “Audio Deep Learning Made Simple: Sound Classification
 	Step by Step.” Available at https://towardsdatascience.com/
